@@ -11,8 +11,8 @@ CO-HELP
 ## Team Members
 
 - [Aishwarya Verma](linkedin.com/in/aishwarya-verma-av107)
-- Uppu Spandana- Student
-- Pratyushkar Parichcha- Student
+- Uppu Spandana
+- Pratyushkar Parichcha
 
 ## Idea behind Co-Help Chat-Bot
 As we all are fighting against the corona pandemic, difficult situations may arise at any point in time, where the communication crisis is a major and common problem faced by us. At such times our contribution is to help people with correct and basic info about the pandemic and pass the message of being calm and help them mentally to face these
