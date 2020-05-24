@@ -10,7 +10,7 @@ CO-HELP
 
 ## Team Members
 
-- [Aishwarya Verma](linkedin.com/in/aishwarya-verma-av107)
+- [Aishwarya Verma](https://www.linkedin.com/in/aishwarya-verma-av107)
 - Uppu Spandana
 - Pratyushkar Parichcha
 
