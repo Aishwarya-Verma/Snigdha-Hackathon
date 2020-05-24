@@ -25,7 +25,7 @@ The app mainly concerns about creating awareness among people in India. So, the 
 The user will be provided with accurate live results and correct information from well-known certified websites like CDC, WHO, MyGov (India), etc. Also, information on lockdown, helpline details, health-related information is provided in brief. Through this solution, our aim is to create confidence and the right awareness among people via the communication platform provided by IBM services, with which the situations can be handled in a smoother way.
 
 ## Solution Architecture
-![Solution Architecture](./Images/DosandDonts.png)
+![Solution Architecture](./Readme-Images/Co-Help SA.png)
 ## Video
 [Snigdha Co-Help](https://www.youtube.com/watch?v=Uzo_pT6zsSs&feature=youtu.be)
 
