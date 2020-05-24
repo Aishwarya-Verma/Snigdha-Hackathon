@@ -2,11 +2,11 @@
 
 ## Team Name 
 
-SNIGDHA
+### SNIGDHA
 
 ## Title
 
-CO-HELP
+### CO-HELP
 
 ## Team Members
 
@@ -28,6 +28,8 @@ The user will be provided with accurate live results and correct information fro
 
 ## Video
 [Snigdha Co-Help](https://www.youtube.com/watch?v=Uzo_pT6zsSs&feature=youtu.be)
+
+## Technologies Used
 
 ### IBM technology
 
